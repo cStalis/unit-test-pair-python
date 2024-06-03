@@ -1,5 +1,7 @@
 # unit-test-pair-python
 
+[fizz-buzz](https://kata-log.rocks/fizz-buzz-kata)
+
 Start testing run ```pytest```
 
 Start running main ```python main.py```
