@@ -2,6 +2,8 @@
 
 [fizz-buzz](https://kata-log.rocks/fizz-buzz-kata)
 
+[zombie](https://blog.wingman-sw.com/tdd-guided-by-zombies)
+
 Start testing run ```pytest```
 
 Start running main ```python main.py```
