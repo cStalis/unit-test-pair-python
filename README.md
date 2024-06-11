@@ -1,6 +1,6 @@
 # unit-test-pair-python
 
-[fizz-buzz](https://kata-log.rocks/fizz-buzz-kata)
+[bowling-game-kata](https://kata-log.rocks/bowling-game-kata)
 
 [zombie](https://blog.wingman-sw.com/tdd-guided-by-zombies)
 
